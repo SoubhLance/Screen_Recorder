@@ -8,7 +8,7 @@ import tkinter as tk
 
 # Define save path
 save_dir = "D:/ScreenRecord/"
-os.makedirs(save_dir, exist_ok=True)  # ✅ Creates the folder if it doesn’t exist
+os.makedirs(save_dir, exist_ok=True)  
 
 # Get screen resolution
 screen_width, screen_height = pyautogui.size()
