@@ -1,4 +1,4 @@
-# Screen_Recorder# Screen Recorder with GUI
+# Screen Recorder with GUI
 
 This project is a Python-based screen recording tool with a graphical user interface (GUI) built using Tkinter. The application allows users to record their screen activity in real time and save it as a video file in `.avi` format.
 
