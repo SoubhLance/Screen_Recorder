@@ -1,3 +1,4 @@
+#Importing the required Files
 import cv2
 import numpy as np
 import pyautogui
@@ -8,7 +9,7 @@ import tkinter as tk
 
 # Define save path
 save_dir = "D:/ScreenRecord/"
-os.makedirs(save_dir, exist_ok=True)  
+os.makedirs(save_dir, exist_ok=True) 
 
 # Get screen resolution
 screen_width, screen_height = pyautogui.size()
